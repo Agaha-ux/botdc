@@ -918,4 +918,4 @@ async def on_ready():
 #   INICIAR BOT
 # ==========================
 
-bot.run("TOKEN")
+bot.run("I")
